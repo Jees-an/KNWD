@@ -11,9 +11,6 @@
   - 시트 2: 상대빈도  
   - 시트 3: 검색 관심도  
 
-📁 *‘N+N’형 임시어의 사용 추이(2009–2023)는 아래 구글 드라이브 링크에서 확인하실 수 있습니다:*  
-👉 [Google Drive에서 보기](https://drive.google.com/file/d/1Q5-JJH408k9cZIgSCWVzyE82mm9fJtih/view?usp=drive_link)
-
 ---
 
 ## 🧾 데이터 구조
@@ -58,6 +55,9 @@
 ### 🖼 사용 추이 예시
 
 !['N+N'형 임시어 사용 추이 예시](./img/example.jpg)
+
+📁 *전체 ‘N+N’형 임시어의 사용 추이(2009–2023)는 아래 구글 드라이브 링크에서 확인하실 수 있습니다:*  
+👉 [Google Drive에서 보기](https://drive.google.com/file/d/1Q5-JJH408k9cZIgSCWVzyE82mm9fJtih/view?usp=drive_link)
 
 ---
 
