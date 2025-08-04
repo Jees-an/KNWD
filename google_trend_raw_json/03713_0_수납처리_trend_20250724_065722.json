@@ -1,0 +1,64 @@
+{
+    "version": "0.1.20250526",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "29.0917 sec.",
+    "cost": 0.009,
+    "tasks_count": 1,
+    "tasks_error": 0,
+    "tasks": [
+        {
+            "id": "07240056-1084-0173-0000-c1e7fe5decfc",
+            "status_code": 20000,
+            "status_message": "Ok.",
+            "time": "29.0622 sec.",
+            "cost": 0.009,
+            "result_count": 1,
+            "path": [
+                "v3",
+                "keywords_data",
+                "google_trends",
+                "explore",
+                "live"
+            ],
+            "data": {
+                "api": "keywords_data",
+                "function": "explore",
+                "se": "google_trends",
+                "keywords": [
+                    "수납처리"
+                ],
+                "location_code": 2410,
+                "language_code": "ko",
+                "type": "web",
+                "date_from": "2009-01-01",
+                "date_to": "2024-12-31"
+            },
+            "result": [
+                {
+                    "keywords": [
+                        "수납처리"
+                    ],
+                    "type": "trends",
+                    "location_code": 2410,
+                    "language_code": "ko",
+                    "check_url": "https://trends.google.com/trends/explore?hl=ko&geo=KR&date=2009-01-01%202024-12-31&q=%EC%88%98%EB%82%A9%EC%B2%98%EB%A6%AC",
+                    "datetime": "2025-07-23 21:57:22 +00:00",
+                    "items_count": 1,
+                    "items": [
+                        {
+                            "position": 1,
+                            "type": "google_trends_graph",
+                            "title": null,
+                            "keywords": [
+                                "수납처리"
+                            ],
+                            "data": null,
+                            "averages": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "version": "0.1.20250526",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "12.0783 sec.",
+    "cost": 0.009,
+    "tasks_count": 1,
+    "tasks_error": 0,
+    "tasks": [
+        {
+            "id": "07232241-1084-0173-0000-de08445c1100",
+            "status_code": 20000,
+            "status_message": "Ok.",
+            "time": "12.0527 sec.",
+            "cost": 0.009,
+            "result_count": 1,
+            "path": [
+                "v3",
+                "keywords_data",
+                "google_trends",
+                "explore",
+                "live"
+            ],
+            "data": {
+                "api": "keywords_data",
+                "function": "explore",
+                "se": "google_trends",
+                "keywords": [
+                    "통상역량"
+                ],
+                "location_code": 2410,
+                "language_code": "ko",
+                "type": "web",
+                "date_from": "2009-01-01",
+                "date_to": "2024-12-31"
+            },
+            "result": [
+                {
+                    "keywords": [
+                        "통상역량"
+                    ],
+                    "type": "trends",
+                    "location_code": 2410,
+                    "language_code": "ko",
+                    "check_url": "https://trends.google.com/trends/explore?hl=ko&geo=KR&date=2009-01-01%202024-12-31&q=%ED%86%B5%EC%83%81%EC%97%AD%EB%9F%89",
+                    "datetime": "2025-07-23 19:42:00 +00:00",
+                    "items_count": 1,
+                    "items": [
+                        {
+                            "position": 1,
+                            "type": "google_trends_graph",
+                            "title": null,
+                            "keywords": [
+                                "통상역량"
+                            ],
+                            "data": null,
+                            "averages": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

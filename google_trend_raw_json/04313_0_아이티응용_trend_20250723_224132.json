@@ -1,0 +1,64 @@
+{
+    "version": "0.1.20250526",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "74.3095 sec.",
+    "cost": 0.009,
+    "tasks_count": 1,
+    "tasks_error": 0,
+    "tasks": [
+        {
+            "id": "07231640-1084-0173-0000-b8be4cddc845",
+            "status_code": 20000,
+            "status_message": "Ok.",
+            "time": "74.2189 sec.",
+            "cost": 0.009,
+            "result_count": 1,
+            "path": [
+                "v3",
+                "keywords_data",
+                "google_trends",
+                "explore",
+                "live"
+            ],
+            "data": {
+                "api": "keywords_data",
+                "function": "explore",
+                "se": "google_trends",
+                "keywords": [
+                    "아이티응용"
+                ],
+                "location_code": 2410,
+                "language_code": "ko",
+                "type": "web",
+                "date_from": "2009-01-01",
+                "date_to": "2024-12-31"
+            },
+            "result": [
+                {
+                    "keywords": [
+                        "아이티응용"
+                    ],
+                    "type": "trends",
+                    "location_code": 2410,
+                    "language_code": "ko",
+                    "check_url": "https://trends.google.com/trends/explore?hl=ko&geo=KR&date=2009-01-01%202024-12-31&q=%EC%95%84%EC%9D%B4%ED%8B%B0%EC%9D%91%EC%9A%A9",
+                    "datetime": "2025-07-23 13:41:30 +00:00",
+                    "items_count": 1,
+                    "items": [
+                        {
+                            "position": 1,
+                            "type": "google_trends_graph",
+                            "title": null,
+                            "keywords": [
+                                "아이티응용"
+                            ],
+                            "data": null,
+                            "averages": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1793 @@
+{
+    "version": "0.1.20250526",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "14.0910 sec.",
+    "cost": 0.009,
+    "tasks_count": 1,
+    "tasks_error": 0,
+    "tasks": [
+        {
+            "id": "07231803-1084-0173-0000-9cd2afadd171",
+            "status_code": 20000,
+            "status_message": "Ok.",
+            "time": "14.0686 sec.",
+            "cost": 0.009,
+            "result_count": 1,
+            "path": [
+                "v3",
+                "keywords_data",
+                "google_trends",
+                "explore",
+                "live"
+            ],
+            "data": {
+                "api": "keywords_data",
+                "function": "explore",
+                "se": "google_trends",
+                "keywords": [
+                    "집중방역"
+                ],
+                "location_code": 2410,
+                "language_code": "ko",
+                "type": "web",
+                "date_from": "2009-01-01",
+                "date_to": "2024-12-31"
+            },
+            "result": [
+                {
+                    "keywords": [
+                        "집중방역"
+                    ],
+                    "type": "trends",
+                    "location_code": 2410,
+                    "language_code": "ko",
+                    "check_url": "https://trends.google.com/trends/explore?hl=ko&geo=KR&date=2009-01-01%202024-12-31&q=%EC%A7%91%EC%A4%91%EB%B0%A9%EC%97%AD",
+                    "datetime": "2025-07-23 15:04:01 +00:00",
+                    "items_count": 1,
+                    "items": [
+                        {
+                            "position": 1,
+                            "type": "google_trends_graph",
+                            "title": null,
+                            "keywords": [
+                                "집중방역"
+                            ],
+                            "data": [
+                                {
+                                    "date_from": "2009-01-01",
+                                    "date_to": "2009-01-31",
+                                    "timestamp": 1230768000,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2009-02-01",
+                                    "date_to": "2009-02-28",
+                                    "timestamp": 1233446400,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2009-03-01",
+                                    "date_to": "2009-03-31",
+                                    "timestamp": 1235865600,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2009-04-01",
+                                    "date_to": "2009-04-30",
+                                    "timestamp": 1238544000,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2009-05-01",
+                                    "date_to": "2009-05-31",
+                                    "timestamp": 1241136000,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2009-06-01",
+                                    "date_to": "2009-06-30",
+                                    "timestamp": 1243814400,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2009-07-01",
+                                    "date_to": "2009-07-31",
+                                    "timestamp": 1246406400,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2009-08-01",
+                                    "date_to": "2009-08-31",
+                                    "timestamp": 1249084800,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2009-09-01",
+                                    "date_to": "2009-09-30",
+                                    "timestamp": 1251763200,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2009-10-01",
+                                    "date_to": "2009-10-31",
+                                    "timestamp": 1254355200,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2009-11-01",
+                                    "date_to": "2009-11-30",
+                                    "timestamp": 1257033600,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2009-12-01",
+                                    "date_to": "2009-12-31",
+                                    "timestamp": 1259625600,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2010-01-01",
+                                    "date_to": "2010-01-31",
+                                    "timestamp": 1262304000,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2010-02-01",
+                                    "date_to": "2010-02-28",
+                                    "timestamp": 1264982400,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2010-03-01",
+                                    "date_to": "2010-03-31",
+                                    "timestamp": 1267401600,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2010-04-01",
+                                    "date_to": "2010-04-30",
+                                    "timestamp": 1270080000,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2010-05-01",
+                                    "date_to": "2010-05-31",
+                                    "timestamp": 1272672000,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2010-06-01",
+                                    "date_to": "2010-06-30",
+                                    "timestamp": 1275350400,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2010-07-01",
+                                    "date_to": "2010-07-31",
+                                    "timestamp": 1277942400,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2010-08-01",
+                                    "date_to": "2010-08-31",
+                                    "timestamp": 1280620800,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2010-09-01",
+                                    "date_to": "2010-09-30",
+                                    "timestamp": 1283299200,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2010-10-01",
+                                    "date_to": "2010-10-31",
+                                    "timestamp": 1285891200,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2010-11-01",
+                                    "date_to": "2010-11-30",
+                                    "timestamp": 1288569600,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2010-12-01",
+                                    "date_to": "2010-12-31",
+                                    "timestamp": 1291161600,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2011-01-01",
+                                    "date_to": "2011-01-31",
+                                    "timestamp": 1293840000,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2011-02-01",
+                                    "date_to": "2011-02-28",
+                                    "timestamp": 1296518400,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2011-03-01",
+                                    "date_to": "2011-03-31",
+                                    "timestamp": 1298937600,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2011-04-01",
+                                    "date_to": "2011-04-30",
+                                    "timestamp": 1301616000,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2011-05-01",
+                                    "date_to": "2011-05-31",
+                                    "timestamp": 1304208000,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2011-06-01",
+                                    "date_to": "2011-06-30",
+                                    "timestamp": 1306886400,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2011-07-01",
+                                    "date_to": "2011-07-31",
+                                    "timestamp": 1309478400,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2011-08-01",
+                                    "date_to": "2011-08-31",
+                                    "timestamp": 1312156800,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2011-09-01",
+                                    "date_to": "2011-09-30",
+                                    "timestamp": 1314835200,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2011-10-01",
+                                    "date_to": "2011-10-31",
+                                    "timestamp": 1317427200,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2011-11-01",
+                                    "date_to": "2011-11-30",
+                                    "timestamp": 1320105600,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2011-12-01",
+                                    "date_to": "2011-12-31",
+                                    "timestamp": 1322697600,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2012-01-01",
+                                    "date_to": "2012-01-31",
+                                    "timestamp": 1325376000,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2012-02-01",
+                                    "date_to": "2012-02-29",
+                                    "timestamp": 1328054400,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2012-03-01",
+                                    "date_to": "2012-03-31",
+                                    "timestamp": 1330560000,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2012-04-01",
+                                    "date_to": "2012-04-30",
+                                    "timestamp": 1333238400,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2012-05-01",
+                                    "date_to": "2012-05-31",
+                                    "timestamp": 1335830400,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2012-06-01",
+                                    "date_to": "2012-06-30",
+                                    "timestamp": 1338508800,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2012-07-01",
+                                    "date_to": "2012-07-31",
+                                    "timestamp": 1341100800,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2012-08-01",
+                                    "date_to": "2012-08-31",
+                                    "timestamp": 1343779200,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2012-09-01",
+                                    "date_to": "2012-09-30",
+                                    "timestamp": 1346457600,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2012-10-01",
+                                    "date_to": "2012-10-31",
+                                    "timestamp": 1349049600,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2012-11-01",
+                                    "date_to": "2012-11-30",
+                                    "timestamp": 1351728000,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2012-12-01",
+                                    "date_to": "2012-12-31",
+                                    "timestamp": 1354320000,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2013-01-01",
+                                    "date_to": "2013-01-31",
+                                    "timestamp": 1356998400,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2013-02-01",
+                                    "date_to": "2013-02-28",
+                                    "timestamp": 1359676800,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2013-03-01",
+                                    "date_to": "2013-03-31",
+                                    "timestamp": 1362096000,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2013-04-01",
+                                    "date_to": "2013-04-30",
+                                    "timestamp": 1364774400,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2013-05-01",
+                                    "date_to": "2013-05-31",
+                                    "timestamp": 1367366400,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2013-06-01",
+                                    "date_to": "2013-06-30",
+                                    "timestamp": 1370044800,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2013-07-01",
+                                    "date_to": "2013-07-31",
+                                    "timestamp": 1372636800,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2013-08-01",
+                                    "date_to": "2013-08-31",
+                                    "timestamp": 1375315200,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2013-09-01",
+                                    "date_to": "2013-09-30",
+                                    "timestamp": 1377993600,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2013-10-01",
+                                    "date_to": "2013-10-31",
+                                    "timestamp": 1380585600,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2013-11-01",
+                                    "date_to": "2013-11-30",
+                                    "timestamp": 1383264000,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2013-12-01",
+                                    "date_to": "2013-12-31",
+                                    "timestamp": 1385856000,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2014-01-01",
+                                    "date_to": "2014-01-31",
+                                    "timestamp": 1388534400,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2014-02-01",
+                                    "date_to": "2014-02-28",
+                                    "timestamp": 1391212800,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2014-03-01",
+                                    "date_to": "2014-03-31",
+                                    "timestamp": 1393632000,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2014-04-01",
+                                    "date_to": "2014-04-30",
+                                    "timestamp": 1396310400,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2014-05-01",
+                                    "date_to": "2014-05-31",
+                                    "timestamp": 1398902400,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2014-06-01",
+                                    "date_to": "2014-06-30",
+                                    "timestamp": 1401580800,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2014-07-01",
+                                    "date_to": "2014-07-31",
+                                    "timestamp": 1404172800,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2014-08-01",
+                                    "date_to": "2014-08-31",
+                                    "timestamp": 1406851200,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2014-09-01",
+                                    "date_to": "2014-09-30",
+                                    "timestamp": 1409529600,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2014-10-01",
+                                    "date_to": "2014-10-31",
+                                    "timestamp": 1412121600,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2014-11-01",
+                                    "date_to": "2014-11-30",
+                                    "timestamp": 1414800000,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2014-12-01",
+                                    "date_to": "2014-12-31",
+                                    "timestamp": 1417392000,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2015-01-01",
+                                    "date_to": "2015-01-31",
+                                    "timestamp": 1420070400,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2015-02-01",
+                                    "date_to": "2015-02-28",
+                                    "timestamp": 1422748800,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2015-03-01",
+                                    "date_to": "2015-03-31",
+                                    "timestamp": 1425168000,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2015-04-01",
+                                    "date_to": "2015-04-30",
+                                    "timestamp": 1427846400,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2015-05-01",
+                                    "date_to": "2015-05-31",
+                                    "timestamp": 1430438400,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2015-06-01",
+                                    "date_to": "2015-06-30",
+                                    "timestamp": 1433116800,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2015-07-01",
+                                    "date_to": "2015-07-31",
+                                    "timestamp": 1435708800,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2015-08-01",
+                                    "date_to": "2015-08-31",
+                                    "timestamp": 1438387200,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2015-09-01",
+                                    "date_to": "2015-09-30",
+                                    "timestamp": 1441065600,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2015-10-01",
+                                    "date_to": "2015-10-31",
+                                    "timestamp": 1443657600,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2015-11-01",
+                                    "date_to": "2015-11-30",
+                                    "timestamp": 1446336000,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2015-12-01",
+                                    "date_to": "2015-12-31",
+                                    "timestamp": 1448928000,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2016-01-01",
+                                    "date_to": "2016-01-31",
+                                    "timestamp": 1451606400,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2016-02-01",
+                                    "date_to": "2016-02-29",
+                                    "timestamp": 1454284800,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2016-03-01",
+                                    "date_to": "2016-03-31",
+                                    "timestamp": 1456790400,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2016-04-01",
+                                    "date_to": "2016-04-30",
+                                    "timestamp": 1459468800,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2016-05-01",
+                                    "date_to": "2016-05-31",
+                                    "timestamp": 1462060800,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2016-06-01",
+                                    "date_to": "2016-06-30",
+                                    "timestamp": 1464739200,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2016-07-01",
+                                    "date_to": "2016-07-31",
+                                    "timestamp": 1467331200,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2016-08-01",
+                                    "date_to": "2016-08-31",
+                                    "timestamp": 1470009600,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2016-09-01",
+                                    "date_to": "2016-09-30",
+                                    "timestamp": 1472688000,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2016-10-01",
+                                    "date_to": "2016-10-31",
+                                    "timestamp": 1475280000,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2016-11-01",
+                                    "date_to": "2016-11-30",
+                                    "timestamp": 1477958400,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2016-12-01",
+                                    "date_to": "2016-12-31",
+                                    "timestamp": 1480550400,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2017-01-01",
+                                    "date_to": "2017-01-31",
+                                    "timestamp": 1483228800,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2017-02-01",
+                                    "date_to": "2017-02-28",
+                                    "timestamp": 1485907200,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2017-03-01",
+                                    "date_to": "2017-03-31",
+                                    "timestamp": 1488326400,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2017-04-01",
+                                    "date_to": "2017-04-30",
+                                    "timestamp": 1491004800,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2017-05-01",
+                                    "date_to": "2017-05-31",
+                                    "timestamp": 1493596800,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2017-06-01",
+                                    "date_to": "2017-06-30",
+                                    "timestamp": 1496275200,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2017-07-01",
+                                    "date_to": "2017-07-31",
+                                    "timestamp": 1498867200,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2017-08-01",
+                                    "date_to": "2017-08-31",
+                                    "timestamp": 1501545600,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2017-09-01",
+                                    "date_to": "2017-09-30",
+                                    "timestamp": 1504224000,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2017-10-01",
+                                    "date_to": "2017-10-31",
+                                    "timestamp": 1506816000,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2017-11-01",
+                                    "date_to": "2017-11-30",
+                                    "timestamp": 1509494400,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2017-12-01",
+                                    "date_to": "2017-12-31",
+                                    "timestamp": 1512086400,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2018-01-01",
+                                    "date_to": "2018-01-31",
+                                    "timestamp": 1514764800,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2018-02-01",
+                                    "date_to": "2018-02-28",
+                                    "timestamp": 1517443200,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2018-03-01",
+                                    "date_to": "2018-03-31",
+                                    "timestamp": 1519862400,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2018-04-01",
+                                    "date_to": "2018-04-30",
+                                    "timestamp": 1522540800,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2018-05-01",
+                                    "date_to": "2018-05-31",
+                                    "timestamp": 1525132800,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2018-06-01",
+                                    "date_to": "2018-06-30",
+                                    "timestamp": 1527811200,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2018-07-01",
+                                    "date_to": "2018-07-31",
+                                    "timestamp": 1530403200,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2018-08-01",
+                                    "date_to": "2018-08-31",
+                                    "timestamp": 1533081600,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2018-09-01",
+                                    "date_to": "2018-09-30",
+                                    "timestamp": 1535760000,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2018-10-01",
+                                    "date_to": "2018-10-31",
+                                    "timestamp": 1538352000,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2018-11-01",
+                                    "date_to": "2018-11-30",
+                                    "timestamp": 1541030400,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2018-12-01",
+                                    "date_to": "2018-12-31",
+                                    "timestamp": 1543622400,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2019-01-01",
+                                    "date_to": "2019-01-31",
+                                    "timestamp": 1546300800,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2019-02-01",
+                                    "date_to": "2019-02-28",
+                                    "timestamp": 1548979200,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2019-03-01",
+                                    "date_to": "2019-03-31",
+                                    "timestamp": 1551398400,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2019-04-01",
+                                    "date_to": "2019-04-30",
+                                    "timestamp": 1554076800,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2019-05-01",
+                                    "date_to": "2019-05-31",
+                                    "timestamp": 1556668800,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2019-06-01",
+                                    "date_to": "2019-06-30",
+                                    "timestamp": 1559347200,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2019-07-01",
+                                    "date_to": "2019-07-31",
+                                    "timestamp": 1561939200,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2019-08-01",
+                                    "date_to": "2019-08-31",
+                                    "timestamp": 1564617600,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2019-09-01",
+                                    "date_to": "2019-09-30",
+                                    "timestamp": 1567296000,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2019-10-01",
+                                    "date_to": "2019-10-31",
+                                    "timestamp": 1569888000,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2019-11-01",
+                                    "date_to": "2019-11-30",
+                                    "timestamp": 1572566400,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2019-12-01",
+                                    "date_to": "2019-12-31",
+                                    "timestamp": 1575158400,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2020-01-01",
+                                    "date_to": "2020-01-31",
+                                    "timestamp": 1577836800,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2020-02-01",
+                                    "date_to": "2020-02-29",
+                                    "timestamp": 1580515200,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2020-03-01",
+                                    "date_to": "2020-03-31",
+                                    "timestamp": 1583020800,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2020-04-01",
+                                    "date_to": "2020-04-30",
+                                    "timestamp": 1585699200,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2020-05-01",
+                                    "date_to": "2020-05-31",
+                                    "timestamp": 1588291200,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2020-06-01",
+                                    "date_to": "2020-06-30",
+                                    "timestamp": 1590969600,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2020-07-01",
+                                    "date_to": "2020-07-31",
+                                    "timestamp": 1593561600,
+                                    "missing_data": false,
+                                    "values": [
+                                        100
+                                    ]
+                                },
+                                {
+                                    "date_from": "2020-08-01",
+                                    "date_to": "2020-08-31",
+                                    "timestamp": 1596240000,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2020-09-01",
+                                    "date_to": "2020-09-30",
+                                    "timestamp": 1598918400,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2020-10-01",
+                                    "date_to": "2020-10-31",
+                                    "timestamp": 1601510400,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2020-11-01",
+                                    "date_to": "2020-11-30",
+                                    "timestamp": 1604188800,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2020-12-01",
+                                    "date_to": "2020-12-31",
+                                    "timestamp": 1606780800,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2021-01-01",
+                                    "date_to": "2021-01-31",
+                                    "timestamp": 1609459200,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2021-02-01",
+                                    "date_to": "2021-02-28",
+                                    "timestamp": 1612137600,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2021-03-01",
+                                    "date_to": "2021-03-31",
+                                    "timestamp": 1614556800,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2021-04-01",
+                                    "date_to": "2021-04-30",
+                                    "timestamp": 1617235200,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2021-05-01",
+                                    "date_to": "2021-05-31",
+                                    "timestamp": 1619827200,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2021-06-01",
+                                    "date_to": "2021-06-30",
+                                    "timestamp": 1622505600,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2021-07-01",
+                                    "date_to": "2021-07-31",
+                                    "timestamp": 1625097600,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2021-08-01",
+                                    "date_to": "2021-08-31",
+                                    "timestamp": 1627776000,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2021-09-01",
+                                    "date_to": "2021-09-30",
+                                    "timestamp": 1630454400,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2021-10-01",
+                                    "date_to": "2021-10-31",
+                                    "timestamp": 1633046400,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2021-11-01",
+                                    "date_to": "2021-11-30",
+                                    "timestamp": 1635724800,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2021-12-01",
+                                    "date_to": "2021-12-31",
+                                    "timestamp": 1638316800,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2022-01-01",
+                                    "date_to": "2022-01-31",
+                                    "timestamp": 1640995200,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2022-02-01",
+                                    "date_to": "2022-02-28",
+                                    "timestamp": 1643673600,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2022-03-01",
+                                    "date_to": "2022-03-31",
+                                    "timestamp": 1646092800,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2022-04-01",
+                                    "date_to": "2022-04-30",
+                                    "timestamp": 1648771200,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2022-05-01",
+                                    "date_to": "2022-05-31",
+                                    "timestamp": 1651363200,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2022-06-01",
+                                    "date_to": "2022-06-30",
+                                    "timestamp": 1654041600,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2022-07-01",
+                                    "date_to": "2022-07-31",
+                                    "timestamp": 1656633600,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2022-08-01",
+                                    "date_to": "2022-08-31",
+                                    "timestamp": 1659312000,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2022-09-01",
+                                    "date_to": "2022-09-30",
+                                    "timestamp": 1661990400,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2022-10-01",
+                                    "date_to": "2022-10-31",
+                                    "timestamp": 1664582400,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2022-11-01",
+                                    "date_to": "2022-11-30",
+                                    "timestamp": 1667260800,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2022-12-01",
+                                    "date_to": "2022-12-31",
+                                    "timestamp": 1669852800,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2023-01-01",
+                                    "date_to": "2023-01-31",
+                                    "timestamp": 1672531200,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2023-02-01",
+                                    "date_to": "2023-02-28",
+                                    "timestamp": 1675209600,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2023-03-01",
+                                    "date_to": "2023-03-31",
+                                    "timestamp": 1677628800,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2023-04-01",
+                                    "date_to": "2023-04-30",
+                                    "timestamp": 1680307200,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2023-05-01",
+                                    "date_to": "2023-05-31",
+                                    "timestamp": 1682899200,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2023-06-01",
+                                    "date_to": "2023-06-30",
+                                    "timestamp": 1685577600,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2023-07-01",
+                                    "date_to": "2023-07-31",
+                                    "timestamp": 1688169600,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2023-08-01",
+                                    "date_to": "2023-08-31",
+                                    "timestamp": 1690848000,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2023-09-01",
+                                    "date_to": "2023-09-30",
+                                    "timestamp": 1693526400,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2023-10-01",
+                                    "date_to": "2023-10-31",
+                                    "timestamp": 1696118400,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2023-11-01",
+                                    "date_to": "2023-11-30",
+                                    "timestamp": 1698796800,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2023-12-01",
+                                    "date_to": "2023-12-31",
+                                    "timestamp": 1701388800,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2024-01-01",
+                                    "date_to": "2024-01-31",
+                                    "timestamp": 1704067200,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2024-02-01",
+                                    "date_to": "2024-02-29",
+                                    "timestamp": 1706745600,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2024-03-01",
+                                    "date_to": "2024-03-31",
+                                    "timestamp": 1709251200,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2024-04-01",
+                                    "date_to": "2024-04-30",
+                                    "timestamp": 1711929600,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2024-05-01",
+                                    "date_to": "2024-05-31",
+                                    "timestamp": 1714521600,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2024-06-01",
+                                    "date_to": "2024-06-30",
+                                    "timestamp": 1717200000,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2024-07-01",
+                                    "date_to": "2024-07-31",
+                                    "timestamp": 1719792000,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2024-08-01",
+                                    "date_to": "2024-08-31",
+                                    "timestamp": 1722470400,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2024-09-01",
+                                    "date_to": "2024-09-30",
+                                    "timestamp": 1725148800,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2024-10-01",
+                                    "date_to": "2024-10-31",
+                                    "timestamp": 1727740800,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2024-11-01",
+                                    "date_to": "2024-11-30",
+                                    "timestamp": 1730419200,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                },
+                                {
+                                    "date_from": "2024-12-01",
+                                    "date_to": "2024-12-31",
+                                    "timestamp": 1733011200,
+                                    "missing_data": false,
+                                    "values": [
+                                        null
+                                    ]
+                                }
+                            ],
+                            "averages": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
