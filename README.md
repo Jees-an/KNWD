@@ -71,7 +71,7 @@
 - 한국어 사전 편찬 
 - 미등록어 탐지 및 한국어 텍스트 처리·분석
   > ⚙️ 'KNWD_Kiwi_User_Dictionary.dict' 파일을 [Kiwi](https://github.com/bab2min/kiwipiepy)의 사용자 사전으로 활용하여 'N+N'형 임시어를 하나의 단위로 분석할 수 있습니다. <br>
-  > (예시) 'ABC 주스' - 'ABC/SL+주스/NNG' ➡️ 'ABC 주스/NNG'
+  > ⏳ 'ABC/SL+주스/NNG' ➡️ 'ABC 주스/NNG'
 
 ---
 
