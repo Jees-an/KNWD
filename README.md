@@ -62,7 +62,7 @@
 !['N+N'형 임시어 사용 추이 예시](./img/example.jpg)
 
 📁 *전체 ‘N+N’형 임시어의 사용 추이는 아래 구글 드라이브 링크에서 확인하실 수 있습니다:* <br>
-👉 [Google Drive에서 보기](https://drive.google.com/file/d/1OwdehXQd5c5cklhNanA7fRFkbKxSefon/view?usp=sharing)
+👉 [Google Drive에서 보기](https://drive.google.com/file/d/1bnMm-9wH7OVyE6-PSVU1e5Dcd_UiGRF5/view?usp=sharing)
 
 ---
 
